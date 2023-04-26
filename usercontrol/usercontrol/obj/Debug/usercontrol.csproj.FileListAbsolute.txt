@@ -1,0 +1,10 @@
+C:\Users\oo144\Desktop\Application Activity\usercontrol\usercontrol\bin\Debug\usercontrol.exe.config
+C:\Users\oo144\Desktop\Application Activity\usercontrol\usercontrol\bin\Debug\usercontrol.exe
+C:\Users\oo144\Desktop\Application Activity\usercontrol\usercontrol\bin\Debug\usercontrol.pdb
+C:\Users\oo144\Desktop\Application Activity\usercontrol\usercontrol\obj\Debug\usercontrol.Form1.resources
+C:\Users\oo144\Desktop\Application Activity\usercontrol\usercontrol\obj\Debug\usercontrol.panel_one.resources
+C:\Users\oo144\Desktop\Application Activity\usercontrol\usercontrol\obj\Debug\usercontrol.panel_two.resources
+C:\Users\oo144\Desktop\Application Activity\usercontrol\usercontrol\obj\Debug\usercontrol.Properties.Resources.resources
+C:\Users\oo144\Desktop\Application Activity\usercontrol\usercontrol\obj\Debug\usercontrol.csproj.GenerateResource.Cache
+C:\Users\oo144\Desktop\Application Activity\usercontrol\usercontrol\obj\Debug\usercontrol.exe
+C:\Users\oo144\Desktop\Application Activity\usercontrol\usercontrol\obj\Debug\usercontrol.pdb
